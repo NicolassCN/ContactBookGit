@@ -4,9 +4,7 @@ This is a starter kit for the first lab of the Software Engineering Course.
 
 The assignment is to implement the ContactBook class, which is a contact management system.
 
-https://software-engineering-4.gitbook.io/software-engineering-labs#challenge-and-yes-this-is-your-first-mini-assignment
-
-You can find the instructions for the lab in the link above.
+You can find the instructions for the lab [here](https://software-engineering-4.gitbook.io/software-engineering-labs#challenge-and-yes-this-is-your-first-mini-assignment).
 
 ### Students 
 - Nicolas Nascimento - 61905
