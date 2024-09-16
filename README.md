@@ -2,7 +2,11 @@
 
 This is a starter kit for the first lab of the Software Engineering Course.
 
-You will notice some things need to be updated in this code. It was originally made with Java 8 and JUnit 4. The plan is for you to still use JUnit 4, but you can and should use a more recent version, like Java 21. You may also note a few other redundant things (e.g. imports). Fix whatever you need to.
+The assignment is to implement the ContactBook class, which is a contact management system.
+
+https://software-engineering-4.gitbook.io/software-engineering-labs#challenge-and-yes-this-is-your-first-mini-assignment
+
+You can find the instructions for the lab in the link above.
 
 ### Students 
 - Nicolas Nascimento - 61905
